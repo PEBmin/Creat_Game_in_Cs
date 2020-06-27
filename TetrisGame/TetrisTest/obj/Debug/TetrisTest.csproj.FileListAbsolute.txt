@@ -1,0 +1,7 @@
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\bin\Debug\TetrisTest.exe.config
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\bin\Debug\TetrisTest.exe
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\bin\Debug\TetrisTest.pdb
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\obj\Debug\TetrisTest.csprojAssemblyReference.cache
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\obj\Debug\TetrisTest.csproj.CoreCompileInputs.cache
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\obj\Debug\TetrisTest.exe
+C:\Users\mcuww\source\repos\TetrisGame\TetrisTest\obj\Debug\TetrisTest.pdb
