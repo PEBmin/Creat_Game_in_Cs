@@ -1,0 +1,7 @@
+C:\Users\mcuww\source\repos\TextRPG\ListTest\bin\Debug\ListTest.exe.config
+C:\Users\mcuww\source\repos\TextRPG\ListTest\bin\Debug\ListTest.exe
+C:\Users\mcuww\source\repos\TextRPG\ListTest\bin\Debug\ListTest.pdb
+C:\Users\mcuww\source\repos\TextRPG\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+C:\Users\mcuww\source\repos\TextRPG\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\Users\mcuww\source\repos\TextRPG\ListTest\obj\Debug\ListTest.exe
+C:\Users\mcuww\source\repos\TextRPG\ListTest\obj\Debug\ListTest.pdb

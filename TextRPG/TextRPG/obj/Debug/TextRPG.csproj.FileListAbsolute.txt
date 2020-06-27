@@ -1,0 +1,7 @@
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\obj\Debug\TextRPG.csprojAssemblyReference.cache
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\mcuww\source\repos\TextRPG\TextRPG\obj\Debug\TextRPG.pdb
